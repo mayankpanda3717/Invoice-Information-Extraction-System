@@ -7,6 +7,8 @@ The steps involved are:
 * Using the finetuned model for inference.
 
 ### The predicted outputs obtained on giving a new invoice image would look something like:
+![image](https://github.com/mayankpanda3717/Invoice-Information-Extraction-System/assets/148647754/bb5d5ad3-a33b-458a-be55-1545cc780614)
+
 
 
 
