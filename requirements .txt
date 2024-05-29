@@ -1,0 +1,7 @@
+pytesseract 
+transformers[torch] 
+datasets 
+seqeval
+tensorboard 
+evaluate
+accelerate -U
