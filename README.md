@@ -7,14 +7,13 @@ The steps involved are:
 * Using the finetuned model for inference.
 
 
-**Note:** We could further improve this system by preprocessing the invoice images which we are giving to our model as an input. This work could be achieved using the OpenCV library.
+**Note:** * We could further improve this system by preprocessing the invoice images which we are giving to our model as an input. This work could be achieved using the OpenCV library.
+          * If your laptop's specification is not quite good then you can use Google Colab to run this piece of code. Make sure that you activate the GPU on colab that's available at free of cost.
 
 
 ### The predicted outputs obtained on giving a new invoice image would look something like:
 ![image](https://github.com/mayankpanda3717/Invoice-Information-Extraction-System/assets/148647754/bb5d5ad3-a33b-458a-be55-1545cc780614)
 
-
-**If your laptop's specifications are not quite good then you can use Google Colab to run this piece of code. Make sure that you activate the GPU on colab that's available free of cost.** 
 
 
 
