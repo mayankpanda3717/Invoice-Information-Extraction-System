@@ -6,6 +6,10 @@ The steps involved are:
 * Using the downloaded dataset to finetune the Lilt Model.
 * Using the finetuned model for inference.
 
+
+**Note:** We could further improve this system by preprocessing the invoice images which we are giving to our model as an input. This work could be achieved using the OpenCV library.
+
+
 ### The predicted outputs obtained on giving a new invoice image would look something like:
 ![image](https://github.com/mayankpanda3717/Invoice-Information-Extraction-System/assets/148647754/bb5d5ad3-a33b-458a-be55-1545cc780614)
 
