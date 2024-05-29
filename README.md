@@ -7,8 +7,9 @@ The steps involved are:
 * Using the finetuned model for inference.
 
 
-**Note:** * We could further improve this system by preprocessing the invoice images which we are giving to our model as an input. This work could be achieved using the OpenCV library.
-          * If your laptop's specification is not quite good then you can use Google Colab to run this piece of code. Make sure that you activate the GPU on colab that's available at free of cost.
+#### Note:
+* We could further improve this system by preprocessing the invoice images which we are giving to our model as an input. This work could be achieved using the OpenCV library.
+* If your laptop's specification is not quite good then you can use Google Colab to run this piece of code. Make sure that you activate the GPU on colab that's available at free of cost.
 
 
 ### The predicted outputs obtained on giving a new invoice image would look something like:
