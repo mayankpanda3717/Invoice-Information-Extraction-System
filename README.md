@@ -11,8 +11,8 @@ The steps involved are:
 * We could further improve this system by preprocessing the invoice images which we are giving to our model as an input. This work could be achieved using the OpenCV library.
 * If your laptop's specification is not quite good then you can use Google Colab to run this piece of code. Make sure that you activate the GPU on colab that's available at free of cost.
 * The first step requires installing all the dependencies for this project mentioned in the requirements.txt file by using the command:
-* __For local device:__ **pip install -r requirements.txt** (or)
-* __For Google Colab:__ **pip install -r requirements.txt**
+* __For local device:__ pip install -r requirements.txt
+* __For Google Colab:__ !pip install -r requirements.txt
 
 
 ### The predicted outputs obtained on providing a new invoice image to our fine-tuned Lilt model would look like:
