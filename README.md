@@ -14,6 +14,9 @@ The steps involved are:
 ![image](https://github.com/mayankpanda3717/Invoice-Information-Extraction-System/assets/148647754/bb5d5ad3-a33b-458a-be55-1545cc780614)
 
 
+**If your laptop's specifications are not quite good then you can use Google Colab to run this piece of code. Make sure that you activate the GPU on colab that's available free of cost.** 
+
+
 
 
 
