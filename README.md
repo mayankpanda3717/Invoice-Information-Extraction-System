@@ -12,7 +12,7 @@ The steps involved are:
 * If your laptop's specification is not quite good then you can use Google Colab to run this piece of code. Make sure that you activate the GPU on colab that's available at free of cost.
 
 
-### The predicted outputs obtained on giving a new invoice image would look something like:
+### The predicted outputs obtained on providing a new invoice image to our fine-tuned Lilt model would look like:
 ![image](https://github.com/mayankpanda3717/Invoice-Information-Extraction-System/assets/148647754/bb5d5ad3-a33b-458a-be55-1545cc780614)
 
 
